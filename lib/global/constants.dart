@@ -1,4 +1,4 @@
-import 'package:countdown_app/.env';
+import 'package:soon/.env';
 
 // Static strings
 const kAppName = 'PIT Checkout Tracker';

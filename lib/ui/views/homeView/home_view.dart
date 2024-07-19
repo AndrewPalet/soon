@@ -1,6 +1,6 @@
-import 'package:countdown_app/assets/my_app_theme.dart';
-import 'package:countdown_app/core/controllers/home_controller.dart';
-import 'package:countdown_app/global/helpers.dart';
+import 'package:soon/assets/my_app_theme.dart';
+import 'package:soon/core/controllers/home_controller.dart';
+import 'package:soon/global/helpers.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

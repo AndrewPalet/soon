@@ -1,4 +1,4 @@
-package com.andrewpalet.countdown_app
+package com.andrewpalet.soon
 
 import io.flutter.embedding.android.FlutterActivity
 

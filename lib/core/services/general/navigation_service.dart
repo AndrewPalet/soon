@@ -1,4 +1,4 @@
-// import 'package:countdown_app/core/contracts/general/I_navigation.dart';
+// import 'package:soon/core/contracts/general/I_navigation.dart';
 // import 'package:flutter/material.dart';
 // import 'package:get/get.dart';
 //

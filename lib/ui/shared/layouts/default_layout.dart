@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:countdown_app/global/helpers.dart';
-import 'package:countdown_app/assets/my_app_theme.dart';
+import 'package:soon/global/helpers.dart';
+import 'package:soon/assets/my_app_theme.dart';
 import 'package:get/get.dart';
 
 class DefaultLayout extends StatelessWidget {

@@ -1,8 +1,8 @@
-import 'package:countdown_app/core/contracts/general/I_navigation.dart';
-import 'package:countdown_app/core/contracts/general/i_connectivity.dart';
-import 'package:countdown_app/core/contracts/general/custom_dialogue.dart';
-import 'package:countdown_app/core/controllers/home_controller.dart';
-import 'package:countdown_app/ui/views/homeView/home_view.dart';
+import 'package:soon/core/contracts/general/I_navigation.dart';
+import 'package:soon/core/contracts/general/i_connectivity.dart';
+import 'package:soon/core/contracts/general/custom_dialogue.dart';
+import 'package:soon/core/controllers/home_controller.dart';
+import 'package:soon/ui/views/homeView/home_view.dart';
 
 import 'package:get/get.dart';
 

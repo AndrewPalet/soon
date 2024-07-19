@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:countdown_app/assets/my_app_theme.dart';
-import 'package:countdown_app/ui/page_router.dart';
+import 'package:soon/assets/my_app_theme.dart';
+import 'package:soon/ui/page_router.dart';
 import 'package:get/get_navigation/src/root/get_material_app.dart';
-import 'package:countdown_app/ui/views/homeView/home_view.dart';
+import 'package:soon/ui/views/homeView/home_view.dart';
 import 'package:get/get_navigation/src/routes/transitions_type.dart';
 import 'package:get_storage/get_storage.dart';
 
@@ -16,7 +16,7 @@ void main() async{
     GetMaterialApp(
       defaultTransition: Transition.fadeIn,
       // initialBinding: PageRouter.initialBinding,
-      title: 'Countdown App',
+      title: 'Soon...',
       theme: MyAppTheme.themeData,
       initialRoute: HomeView.route,
       getPages: PageRouter.getPages,

@@ -1,5 +1,5 @@
-import 'package:countdown_app/global/constants.dart';
-import 'package:countdown_app/ui/shared/widgets/responsive_widget.dart';
+import 'package:soon/global/constants.dart';
+import 'package:soon/ui/shared/widgets/responsive_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

@@ -1,5 +1,5 @@
-// import 'package:countdown_app/assets/my_app_theme.dart';
-// import 'package:countdown_app/core/contracts/general/custom_dialogue.dart';
+// import 'package:soon/assets/my_app_theme.dart';
+// import 'package:soon/core/contracts/general/custom_dialogue.dart';
 // import 'package:flutter/material.dart';
 // import 'package:get/get.dart';
 //

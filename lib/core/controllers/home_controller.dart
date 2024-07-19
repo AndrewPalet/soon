@@ -6,15 +6,15 @@
 // import 'package:equipment_checkout_tracker/core/services/templateMethod/scan_equipment_code_process_validator.dart';
 // import 'package:equipment_checkout_tracker/core/services/templateMethod/submit_equipment_code_process_validator.dart';
 // import 'package:equipment_checkout_tracker/globals/constants.dart';
-import 'package:countdown_app/core/contracts/general/I_navigation.dart';
-import 'package:countdown_app/core/contracts/general/custom_dialogue.dart';
-import 'package:countdown_app/core/controllers/base_controller.dart';
-import 'package:countdown_app/core/models/snackbar_report.dart';
+import 'package:soon/core/contracts/general/I_navigation.dart';
+import 'package:soon/core/contracts/general/custom_dialogue.dart';
+import 'package:soon/core/controllers/base_controller.dart';
+import 'package:soon/core/models/snackbar_report.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:package_info_plus/package_info_plus.dart';
 
-import 'package:countdown_app/global/constants.dart';
+import 'package:soon/global/constants.dart';
 
 class HomeController extends GetxController with BaseController {
   // Fields
